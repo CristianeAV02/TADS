@@ -3,8 +3,6 @@ import android.content.Intent;
 import android.os.Bundle;
 import android.view.View;
 import android.widget.Toast;
-Analista e Desenvolvedor de Sistemas
-        Tópicos Integradores - Analista e Desenvolvedor de Sistemas 22
 import androidx.annotation.NonNull;
 import androidx.annotation.Nullable;
 import androidx.appcompat.app.AppCompatActivity;
